@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Aaron Velthoven](https://github/aaronvel.com/).
+by [Aaron Velthoven](https://github.com/aaronvel/).
